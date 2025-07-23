@@ -110,9 +110,6 @@ HVAC_MODE_SETS = {
         HVACMode.DRY: "dry",
         HVACMode.FAN_ONLY: "fan",
     }, 	
-	
-	
-	
 }
 HVAC_ACTION_SETS = {
     "True/False": {
